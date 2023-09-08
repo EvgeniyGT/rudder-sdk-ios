@@ -106,6 +106,7 @@
 #import "NSData+GZIP.h"
 #import "sqlite3.h"
 #import "RSDBEncryption.h"
+#import "RSMetricsReporter.h"
 
 //! Project version number for RS.
 FOUNDATION_EXPORT double RSVersionNumber;
